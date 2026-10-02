@@ -225,6 +225,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 <div align="center">
+  <p><strong>Built by <a href="https://github.com/girishlade111">Girish Lade</a></strong> · <a href="https://ladestack.in">ladestack.in</a></p>
   <p>Made with ❤️ by the Samaa Team</p>
   <p>
     <a href="https://github.com/girishlade111/samaa-frontend/stargazers">
